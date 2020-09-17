@@ -1,0 +1,80 @@
+body {
+	background-image: url(background.jpg);
+	/*Bbackground-repeat: no-repeat;*/
+	/*background-size: cover;*/
+  background-position: center;
+  font-family: sans-serif;
+ /*text-align: center;*/
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+}
+#name{
+text-align: center;
+}
+a {
+	font-size: 20px;
+	color: aliceblue;
+}
+h4 {
+	/*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+	color: aliceblue;
+	font-size: 20px;
+}
+table {
+	background-color: gold;
+  align-items: center;
+  margin: 0 auto;
+}
+#center{
+  text-align: center;
+  list-style-position: inside;
+}
+caption {
+	color: aliceblue;
+}
+#odd {
+	background-color: darkgrey;
+}
+h5 {
+	color: blue;
+	font-size: 20px;
+}
+ul,
+ol {
+	color: aliceblue;
+  /*font-family: Georgia, 'Times New Roman', Times, serif;*/
+}
+#education{
+  color: blueviolet;
+}
+.TreePoem{
+  color: #666666;
+  text-shadow: burlywood;
+  text-align: left;
+  text-decoration: chartreuse;
+  font-size: 15px;
+  background-color:coral;
+  width: 320px;
+  float: left;
+  
+}
+.snow{
+  color: #666666;
+  text-shadow: burlywood;
+  text-align: left;
+  text-decoration: chartreuse;
+  font-size: 15px;
+  background-color:coral;
+  width: 550px;
+  float: left;
+}
+a:hover{
+  color:blue;
+}
+.highlight{
+  color: red;
+}
